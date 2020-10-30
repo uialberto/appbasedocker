@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\programing\\dockerdesktop\\demos\\appimg\\appimg.csproj": {}
+    "D:\\programing\\dockerdesktop\\demos\\appbase\\appimg.csproj": {}
   },
   "projects": {
-    "D:\\programing\\dockerdesktop\\demos\\appimg\\appimg.csproj": {
+    "D:\\programing\\dockerdesktop\\demos\\appbase\\appimg.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\programing\\dockerdesktop\\demos\\appimg\\appimg.csproj",
+        "projectUniqueName": "D:\\programing\\dockerdesktop\\demos\\appbase\\appimg.csproj",
         "projectName": "appimg",
-        "projectPath": "D:\\programing\\dockerdesktop\\demos\\appimg\\appimg.csproj",
+        "projectPath": "D:\\programing\\dockerdesktop\\demos\\appbase\\appimg.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "D:\\programing\\dockerdesktop\\demos\\appimg\\obj\\",
+        "outputPath": "D:\\programing\\dockerdesktop\\demos\\appbase\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

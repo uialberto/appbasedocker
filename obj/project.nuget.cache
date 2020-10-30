@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tq0a398jmC0Kd2fZC/qiU8dJtX/fxcZaugOL/4FIhEwSn8XsH0tot7kBtJwL8KdGwaWD62v3dALgGbTnW+rBtA==",
+  "dgSpecHash": "Fwyvj56uJ8NNmP8o/wJQBGMHYJ/OPzrgu0Io7cXhE7QkIMlNa+bS9hC329LnppFdHBn3mDU5lZ/5l7meyfn9MA==",
   "success": true,
-  "projectFilePath": "D:\\programing\\dockerdesktop\\demos\\appimg\\appimg.csproj",
+  "projectFilePath": "D:\\programing\\dockerdesktop\\demos\\appbase\\appimg.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
